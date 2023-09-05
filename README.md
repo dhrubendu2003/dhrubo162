@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhrubo2003
 - 👀 I’m interested in ...learn coding.
 - 🌱 I’m currently learning ...Java,C,HTML&CSS,Python
-- 💞️ I’m looking to collaborate on ...Short Projec
+- 💞️ I’m looking to collaborate on ...Short Project
 - 📫 How to reach me ... dasdhrubendu@gmail.com
 
 <!---
